@@ -2,6 +2,6 @@
   "licenses": [
     {"Name":"", "key": "", "status": "active" , "planStartDate": "2023-01-01"},
     {"Name":"Deepak", "key": "XYZ456", "status": "active" , "planStartDate": "2023-01-01"},
-    {"Name":"Alex", "key": "DEF789", "status": "revoked" ,"planStartDate": "2023-01-01"}
+    {"Name":"Alex", "key": "DEF789", "status": "active" ,"planStartDate": "2023-01-01"}
   ]
 }
