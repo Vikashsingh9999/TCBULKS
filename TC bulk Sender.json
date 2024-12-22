@@ -1,0 +1,7 @@
+{
+  "licenses": [
+    { "key": "ABC123", "status": "active" },
+    { "key": "XYZ456", "status": "active" },
+    { "key": "DEF789", "status": "revoked" }
+  ]
+}
