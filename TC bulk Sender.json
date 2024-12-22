@@ -1,7 +1,7 @@
 {
   "licenses": [
-    { "key": "ABC123", "status": "active" },
-    { "key": "XYZ456", "status": "active" },
-    { "key": "DEF789", "status": "revoked" }
+    {"Name":"Vikash", "key": "ABC123", "status": "active" },
+    {"Name":"Deepak", "key": "XYZ456", "status": "active" },
+    {"Name":"Alex", "key": "DEF789", "status": "revoked" }
   ]
 }
