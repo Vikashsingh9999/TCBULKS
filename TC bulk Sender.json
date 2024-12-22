@@ -1,7 +1,7 @@
 {
   "licenses": [
-    {"Name":"", "key": "", "status": "active" , "planStartDate": "2023-01-01"},
-    {"Name":"Deepak", "key": "XYZ456", "status": "active" , "planStartDate": "2023-01-01"},
-    {"Name":"Alex", "key": "DEF789", "status": "active" ,"planStartDate": "2023-01-01"}
+    {"Name":"Vikash", "key": "8HBU-KZBR-BJN6-IOWQ", "status": "active" , "planStartDate": "2023-01-01"},
+    {"Name":"Deepak", "key": "ZP2L-E52R-6I5G-3UI0", "status": "active" , "planStartDate": "2023-01-01"},
+    {"Name":"Alex", "key": "FVTW-CLJW-4TIJ-FL25", "status": "active" ,"planStartDate": "2023-01-01"}
   ]
 }
